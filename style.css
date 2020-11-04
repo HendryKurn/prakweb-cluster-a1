@@ -1,0 +1,28 @@
+body {
+	font-family: "Arial";
+}
+header {
+	border-top: 3px solid black; border-right: 3px solid black; border-left: 3px solid black; 
+	width: 784px; height: 200px;
+	background-color: rgb(204, 174, 98);
+}
+.kolom1 {
+	border: 3px solid black;
+	width: 200px; height: auto;
+	background-color: yellow;
+	position: fixed;
+}
+.kolom2 {
+	border: 3px solid black;
+	width: 584px; height: auto;
+	background-color: pink;
+	margin-left: 200px;
+	text-align: center;
+
+}
+footer {
+	border-bottom: 3px solid black; border-right: 3px solid black; border-left: 3px solid black;
+	width: 784px; height: 100px;
+	background-color: rgb(155, 89, 182);
+	text-align: center;
+}
